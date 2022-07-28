@@ -6,8 +6,8 @@
 - 📫 How to reach me: via email (vipinvishwa1m1@gmail.com)
 
 <div>
-  <img align="left" width="40%" src="https://github-readme-stats.vercel.app/api?username=Vipin675&show_icons=true&theme=radical"/>
-  <img align="center" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vipin675&layout=compact"/>
+  <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=Vipin675&show_icons=true&theme=radical"/>
+  <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vipin675&layout=compact"/>
 </div>
 <!--
 **Vipin675/Vipin675** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
