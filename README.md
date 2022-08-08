@@ -2,7 +2,7 @@
 ###### <p font-size="10px" align="left">clicking on "Vipin" will redirect you to my WEBSITE </p>
 
 - 🔭 I’m currently a college student
-- 🌱 I’m currently developing skills on MERN STACK
+- 🌱 I’m currently learning Java &  developing skills on MERN STACK
 - 💬 Ask me about anything
 - 📫 How to reach me: via email (vipinvishwa1m1@gmail.com)
 
